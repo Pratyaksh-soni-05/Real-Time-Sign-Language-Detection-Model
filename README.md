@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project focuses on building a **Sign Language Detection Model** that uses **Machine Learning** and **Computer Vision** to recognize and interpret hand gestures in real time. The goal is to bridge the communication gap for people with hearing impairments by converting sign language into text or speech.
 
+Average Detection Accuracy recieved was 96%*
+
 ![Model Proof](model_proof.png)
 
 
